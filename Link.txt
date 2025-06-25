@@ -1,0 +1,3 @@
+# App link
+
+https://tariffiq.onrender.com
